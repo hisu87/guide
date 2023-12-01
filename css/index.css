@@ -1,0 +1,54 @@
+/* FILEPATH: /H:/Jva/huongdan/css/index.css */
+
+/* Reset default styles */
+body,
+h1,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set background color */
+
+body {
+    background: linear-gradient(45deg, #341336, #5e2a55, #85406a, #ad5778);
+    background-repeat: no-repeat;
+    background-size: 1000% 1000%;
+}
+
+
+/* Style the heading */
+h1,
+h3 {
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Style the paragraph */
+p {
+    display: block;
+    margin: 0 auto;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 2;
+    text-align: center;
+}
+
+ul {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a {
+    list-style: none;
+    color: #ffffff;
+}
